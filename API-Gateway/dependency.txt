@@ -1,0 +1,5 @@
+for this API Gateway i have used:
+1.cloud bootstrap
+2.gateway- spring cloud routing
+3.spring reactive web
+4.EUREKA DISCOVERY CLIENT
